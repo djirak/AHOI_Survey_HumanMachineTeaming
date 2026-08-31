@@ -1,4 +1,4 @@
-# AHOI_Survey_HumanMachineTeaming
+# AHOI Survey HumanMachineTeaming
 Evaluation of the survey conducted between December 2025 and mid-April 2026. Collaboration between University of Antwerp, Department of Product Development, Antwerp Maritime Academy (AMA), imec, and MAHI within the AHOI Project (contract number 23DEFRA002). 
 
 Publication: "Understanding Operator Attitudes Toward AI-Supported Decision Making in Maritime Operations" (Doreen Jirak, Armeen
