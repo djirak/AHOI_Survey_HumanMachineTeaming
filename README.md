@@ -6,4 +6,5 @@ Saroukanoff, Dirk van Rooy); accepted for oral presentation at "Human Learning a
 
 Sources:
   - Jupyter notebooks for evaluation of questionnaires (descriptive statistics, correlation, factor analysis) and sentiment analysis on open questions.
+  - Pictures: images representing 'scenario 1' and 'scenario 2', and from the evaluation.
   - Data: Can be provided via email to: doreen.jirak@uantwerpen.be upon reasonable request.
