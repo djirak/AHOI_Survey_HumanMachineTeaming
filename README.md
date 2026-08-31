@@ -1,2 +1,9 @@
 # AHOI_Survey_HumanMachineTeaming
-Evaluation of the survey conducted between December 2025 and mid-April 2026.  
+Evaluation of the survey conducted between December 2025 and mid-April 2026.
+
+Publication: "Understanding Operator Attitudes Toward AI-Supported Decision Making in Maritime Operations" (Doreen Jirak, Armeen
+Saroukanoff, Dirk van Rooy); accepted for oral presentation at "Human Learning and Decision-Making" WS, ECML-PKDD, Naples, Italy, September 2026.
+
+Sources:
+  - Jupyter notebooks for evaluation of questionnaires (descriptive statistics, correlation, factor analysis) and sentiment analysis on open questions.
+  - Data: Can be provided via email to: doreen.jirak@uantwerpen.be upon reasonable request.
